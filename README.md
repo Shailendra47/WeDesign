@@ -1,2 +1,2 @@
 # WeDesign
-Resposive website using Javascript (Udemy course)
+Resposive website using Javascript project
