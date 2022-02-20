@@ -1,2 +1,2 @@
 # WeDesign
-Resposive website using Javascript (Udemy course) SmartData project
+Resposive website using Javascript (Udemy course)
